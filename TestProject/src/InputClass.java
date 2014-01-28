@@ -5,7 +5,7 @@ public class InputClass {
 		int a;
 		int b;
 		Scanner input = new Scanner (System.in);
-		System.out.println("Enter a number ");
+		System.out.println("Enter a numbers ");
 		a=input.nextInt();
 		System.out.println("Enter second number");
 		b=input.nextInt();
